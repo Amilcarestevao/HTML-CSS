@@ -21,7 +21,7 @@ header > h1 {
     padding: 10px;
     text-align: center;
 }
-span.material-symbols-outlined{
+i.material-symbols-outlined{
     background-color: rgb(66, 66, 66);
     color: white;
     text-align: center;
@@ -29,7 +29,7 @@ span.material-symbols-outlined{
     display: block;
     cursor: pointer;
 }
-span.material-symbols-outlined:hover{
+i.material-symbols-outlined:hover{
     background-color: white;
     color: black;
     
